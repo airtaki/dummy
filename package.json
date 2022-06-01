@@ -1,6 +1,6 @@
 {
   "name": "dummy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Just dummy a repo for test purposes",
   "main": "app.js",
   "scripts": {
